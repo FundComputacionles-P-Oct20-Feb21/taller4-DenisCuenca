@@ -1,0 +1,46 @@
+Generar un algoritmo que permita calcular y mostrar el costo de una computadora de escritorio. La misma es comprada por partes; CPU, teclado, pantalla, ratón
+
+Algoritmo:
+
+1. Inicio.
+2. Ingresar costo de teclado.
+3. Ingesar costo de CPU.
+4. Ingresar el costo de  la pantalla.
+5. Ingresar el costo del ratón.
+6. Sumar el costo de teclado, CPU, pantalla y ratón.
+7. Presentar un mensaje con el resultado de la suma.
+8. Fin.
+
+
+--------Miniespecificación:-----------
+
+1. Inicio
+
+// Declarando variables
+
+2. costoTelado, d[0,n]
+3. costoCpu, d[0,n]
+4. costoPantalla, d[0,n]
+5. costoRaton, d[0,n]
+6. costoTotal, d[0,n]
+
+// Pido datos por teclado-  entradas:
+
+7. << "Ingrese el costo del teclado"
+8. >> costoTeclado
+9. << "Ingrese costo de CPU"
+10. >> costoCpu
+11. << "Ingrese costo de pantalla"
+12. >> costoPantalla
+13. << "Ingrese costo de raton"
+14. >> costoRaton
+
+// Proceso:
+
+15. costoTotal <-- costoTeclado + costoCpu + costoPantalla + costoRaton
+
+// Salida:
+
+16.<< "El costo total a pagar por la computadora es: " + costoTotal
+17. Fin
+

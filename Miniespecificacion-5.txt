@@ -32,7 +32,7 @@ Algoritmo:
 // Proceso
 
 10. montoMensual <-- montoPestamo/12
-11. totalMensual <-- MontoMensual + interesMensual
+11. totalMensual <-- montoMensual + interesMensual
 
 // Salidas
 

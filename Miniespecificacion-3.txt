@@ -13,25 +13,25 @@ Algoritmo:
 
 1. Inicio
 
-// declarando variables
+// Declarando variables
 
 2. costoMinuto, d[0,n]
 3. minutosConsumidos, d[0,n]
-4. costoaPagar, d[0,n]
+4. valorPagar, d[0,n]
 
-//pido datos por teclado- entradas
+//Pido datos por teclado- entradas
 
 5. <<"Ingrese el costo por minuto"
 6. >>costoMinuto
 7. <<"Ingrese los minutos consumidos al mes"
 8. >>minutosConsumidos
 
-// proceso
+// Proceso
 
-9. costoaPagar <- costoMinutos * minutosConsumidos
+9. valorPagar <- costoMinutos * minutosConsumidos
 
-// salida
+// Salida
  
-10. <<"el monto a pagar es "  + costoaPagar 
+10. <<"El monto a pagar es: "  + valorPagar 
 
-11.Fin
+11. Fin

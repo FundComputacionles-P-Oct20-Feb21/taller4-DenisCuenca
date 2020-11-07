@@ -18,7 +18,7 @@ Algoritmo:
 
 // Declarando variables
 
-2. costoTelado, d[0,n]
+2. costoTelado, d[0,n] 
 3. costoCpu, d[0,n]
 4. costoPantalla, d[0,n]
 5. costoRaton, d[0,n]
@@ -28,11 +28,11 @@ Algoritmo:
 
 7. << "Ingrese el costo del teclado"
 8. >> costoTeclado
-9. << "Ingrese costo de CPU"
+9. << "Ingrese costo del CPU"
 10. >> costoCpu
-11. << "Ingrese costo de pantalla"
+11. << "Ingrese costo de la pantalla"
 12. >> costoPantalla
-13. << "Ingrese costo de raton"
+13. << "Ingrese costo del ratón"
 14. >> costoRaton
 
 // Proceso:

@@ -3,8 +3,8 @@ Generar un algoritmo que permite calcular y presentar el área de un triángulo. L
 Algoritmo:
 
 1. Inicio.
-2. ingresar altura del triangulo.  
-3. Ingresar base del triangulo. 
+2. ingresar altura del triángulo.  
+3. Ingresar base del triángulo. 
 4. Multiplicar base por altura y dividir para dos.
 5. Mostrar un mensaje con el resultado.
 6. Fin. 
@@ -12,24 +12,24 @@ Algoritmo:
 -------------Minespecificación:---------------------
 
 1. Inicio
-// declarando las variables
+// Declarando las variables
 
 2.altura,d[0,n]
 3.base,d[0,n]
 4.area,d[0,n]
 
-// pido datos por teclado- entradas
+// Pido datos por teclado- entradas
 
-5. << "Ingrese la altura del triandulo"
+5. << "Ingrese la altura del triángulo"
 6. >> altura
-7. <<"Ingrese la base del triangulo"
+7. <<"Ingrese la base del triángulo"
 8. >> base 
 
-//proceso
+// Proceso
 
 9. area <- (base*altura)/2
 
-//Salida 
+// Salida 
 
-10. << "el costo del terreno es "+ area
+10. << "el área del triángulo es: "+ area
 11. Fin

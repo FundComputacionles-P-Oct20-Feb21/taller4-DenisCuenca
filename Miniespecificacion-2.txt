@@ -14,7 +14,7 @@ Algoritmo:
 
 1. Inicio
 
-// Declaro las varibles
+// Declaro las variables
 
 2. hijo1, d[0,n]
 3. hijo2, d[0,n]
